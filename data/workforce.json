@@ -1,0 +1,380 @@
+[
+  {
+    "person": "E00",
+    "site": "东厂",
+    "main_role": "操作",
+    "team": "T0",
+    "regular": false
+  },
+  {
+    "person": "E01",
+    "site": "南厂",
+    "main_role": "操作",
+    "team": "T0",
+    "regular": true
+  },
+  {
+    "person": "E02",
+    "site": "西厂",
+    "main_role": "操作",
+    "team": "T0",
+    "regular": true
+  },
+  {
+    "person": "E03",
+    "site": "东厂",
+    "main_role": "换型",
+    "team": "T0",
+    "regular": true
+  },
+  {
+    "person": "E04",
+    "site": "南厂",
+    "main_role": "换型",
+    "team": "T0",
+    "regular": false
+  },
+  {
+    "person": "E05",
+    "site": "西厂",
+    "main_role": "换型",
+    "team": "T0",
+    "regular": true
+  },
+  {
+    "person": "E06",
+    "site": "东厂",
+    "main_role": "异常处置",
+    "team": "T1",
+    "regular": true
+  },
+  {
+    "person": "E07",
+    "site": "南厂",
+    "main_role": "异常处置",
+    "team": "T1",
+    "regular": true
+  },
+  {
+    "person": "E08",
+    "site": "西厂",
+    "main_role": "异常处置",
+    "team": "T1",
+    "regular": false
+  },
+  {
+    "person": "E09",
+    "site": "东厂",
+    "main_role": "操作",
+    "team": "T1",
+    "regular": true
+  },
+  {
+    "person": "E10",
+    "site": "南厂",
+    "main_role": "操作",
+    "team": "T1",
+    "regular": true
+  },
+  {
+    "person": "E11",
+    "site": "西厂",
+    "main_role": "操作",
+    "team": "T1",
+    "regular": true
+  },
+  {
+    "person": "E12",
+    "site": "东厂",
+    "main_role": "换型",
+    "team": "T2",
+    "regular": false
+  },
+  {
+    "person": "E13",
+    "site": "南厂",
+    "main_role": "换型",
+    "team": "T2",
+    "regular": true
+  },
+  {
+    "person": "E14",
+    "site": "西厂",
+    "main_role": "换型",
+    "team": "T2",
+    "regular": true
+  },
+  {
+    "person": "E15",
+    "site": "东厂",
+    "main_role": "异常处置",
+    "team": "T2",
+    "regular": true
+  },
+  {
+    "person": "E16",
+    "site": "南厂",
+    "main_role": "异常处置",
+    "team": "T2",
+    "regular": false
+  },
+  {
+    "person": "E17",
+    "site": "西厂",
+    "main_role": "异常处置",
+    "team": "T2",
+    "regular": true
+  },
+  {
+    "person": "E18",
+    "site": "东厂",
+    "main_role": "操作",
+    "team": "T3",
+    "regular": true
+  },
+  {
+    "person": "E19",
+    "site": "南厂",
+    "main_role": "操作",
+    "team": "T3",
+    "regular": true
+  },
+  {
+    "person": "E20",
+    "site": "西厂",
+    "main_role": "操作",
+    "team": "T3",
+    "regular": false
+  },
+  {
+    "person": "E21",
+    "site": "东厂",
+    "main_role": "换型",
+    "team": "T3",
+    "regular": true
+  },
+  {
+    "person": "E22",
+    "site": "南厂",
+    "main_role": "换型",
+    "team": "T3",
+    "regular": true
+  },
+  {
+    "person": "E23",
+    "site": "西厂",
+    "main_role": "换型",
+    "team": "T3",
+    "regular": true
+  },
+  {
+    "person": "E24",
+    "site": "东厂",
+    "main_role": "异常处置",
+    "team": "T4",
+    "regular": false
+  },
+  {
+    "person": "E25",
+    "site": "南厂",
+    "main_role": "异常处置",
+    "team": "T4",
+    "regular": true
+  },
+  {
+    "person": "E26",
+    "site": "西厂",
+    "main_role": "异常处置",
+    "team": "T4",
+    "regular": true
+  },
+  {
+    "person": "E27",
+    "site": "东厂",
+    "main_role": "操作",
+    "team": "T4",
+    "regular": true
+  },
+  {
+    "person": "E28",
+    "site": "南厂",
+    "main_role": "操作",
+    "team": "T4",
+    "regular": false
+  },
+  {
+    "person": "E29",
+    "site": "西厂",
+    "main_role": "操作",
+    "team": "T4",
+    "regular": true
+  },
+  {
+    "person": "E30",
+    "site": "东厂",
+    "main_role": "换型",
+    "team": "T5",
+    "regular": true
+  },
+  {
+    "person": "E31",
+    "site": "南厂",
+    "main_role": "换型",
+    "team": "T5",
+    "regular": true
+  },
+  {
+    "person": "E32",
+    "site": "西厂",
+    "main_role": "换型",
+    "team": "T5",
+    "regular": false
+  },
+  {
+    "person": "E33",
+    "site": "东厂",
+    "main_role": "异常处置",
+    "team": "T5",
+    "regular": true
+  },
+  {
+    "person": "E34",
+    "site": "南厂",
+    "main_role": "异常处置",
+    "team": "T5",
+    "regular": true
+  },
+  {
+    "person": "E35",
+    "site": "西厂",
+    "main_role": "异常处置",
+    "team": "T5",
+    "regular": true
+  },
+  {
+    "person": "E36",
+    "site": "东厂",
+    "main_role": "操作",
+    "team": "T6",
+    "regular": false
+  },
+  {
+    "person": "E37",
+    "site": "南厂",
+    "main_role": "操作",
+    "team": "T6",
+    "regular": true
+  },
+  {
+    "person": "E38",
+    "site": "西厂",
+    "main_role": "操作",
+    "team": "T6",
+    "regular": true
+  },
+  {
+    "person": "E39",
+    "site": "东厂",
+    "main_role": "换型",
+    "team": "T6",
+    "regular": true
+  },
+  {
+    "person": "E40",
+    "site": "南厂",
+    "main_role": "换型",
+    "team": "T6",
+    "regular": false
+  },
+  {
+    "person": "E41",
+    "site": "西厂",
+    "main_role": "换型",
+    "team": "T6",
+    "regular": true
+  },
+  {
+    "person": "E42",
+    "site": "东厂",
+    "main_role": "异常处置",
+    "team": "T7",
+    "regular": true
+  },
+  {
+    "person": "E43",
+    "site": "南厂",
+    "main_role": "异常处置",
+    "team": "T7",
+    "regular": true
+  },
+  {
+    "person": "E44",
+    "site": "西厂",
+    "main_role": "异常处置",
+    "team": "T7",
+    "regular": false
+  },
+  {
+    "person": "E45",
+    "site": "东厂",
+    "main_role": "操作",
+    "team": "T7",
+    "regular": true
+  },
+  {
+    "person": "E46",
+    "site": "南厂",
+    "main_role": "操作",
+    "team": "T7",
+    "regular": true
+  },
+  {
+    "person": "E47",
+    "site": "西厂",
+    "main_role": "操作",
+    "team": "T7",
+    "regular": true
+  },
+  {
+    "person": "E48",
+    "site": "东厂",
+    "main_role": "换型",
+    "team": "T8",
+    "regular": false
+  },
+  {
+    "person": "E49",
+    "site": "南厂",
+    "main_role": "换型",
+    "team": "T8",
+    "regular": true
+  },
+  {
+    "person": "E50",
+    "site": "西厂",
+    "main_role": "换型",
+    "team": "T8",
+    "regular": true
+  },
+  {
+    "person": "E51",
+    "site": "东厂",
+    "main_role": "异常处置",
+    "team": "T8",
+    "regular": true
+  },
+  {
+    "person": "E52",
+    "site": "南厂",
+    "main_role": "异常处置",
+    "team": "T8",
+    "regular": false
+  },
+  {
+    "person": "E53",
+    "site": "西厂",
+    "main_role": "异常处置",
+    "team": "T8",
+    "regular": true
+  }
+]

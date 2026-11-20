@@ -1,0 +1,23 @@
+[
+  {
+    "id": "B1",
+    "post": "K1",
+    "person": "E01",
+    "at_day": 140,
+    "action": "确认"
+  },
+  {
+    "id": "B2",
+    "post": "K3",
+    "person": "E13",
+    "at_day": 140,
+    "action": "确认"
+  },
+  {
+    "id": "B3",
+    "post": "K2",
+    "person": "E01",
+    "at_day": 142,
+    "action": "候选"
+  }
+]

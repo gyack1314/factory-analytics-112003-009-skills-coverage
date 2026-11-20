@@ -1,0 +1,24 @@
+[
+  {
+    "from_site": "东厂",
+    "to_site": "南厂",
+    "role": "异常处置",
+    "requirements": [
+      "S0"
+    ],
+    "active_from_day": 100,
+    "active_until_day": 145,
+    "oversight": "本地监督"
+  },
+  {
+    "from_site": "南厂",
+    "to_site": "西厂",
+    "role": "换型",
+    "requirements": [
+      "S1"
+    ],
+    "active_from_day": 110,
+    "active_until_day": 150,
+    "oversight": "可远程"
+  }
+]

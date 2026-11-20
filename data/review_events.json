@@ -1,0 +1,16 @@
+[
+  {
+    "id": "C1",
+    "attempt": "MAIN",
+    "at_day": 141,
+    "action": "录像复核",
+    "actual_operator": "E07"
+  },
+  {
+    "id": "C2",
+    "attempt": "BACK",
+    "at_day": 144,
+    "action": "复训证据",
+    "actual_operator": "E04"
+  }
+]

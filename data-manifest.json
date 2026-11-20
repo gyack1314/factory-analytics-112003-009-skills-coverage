@@ -1,0 +1,126 @@
+{
+  "workforce": {
+    "records": 54,
+    "fields": [
+      "person",
+      "site",
+      "main_role",
+      "team",
+      "regular"
+    ]
+  },
+  "training": {
+    "records": 54,
+    "fields": [
+      "person",
+      "role",
+      "invited_day",
+      "completed_day",
+      "equipment_change"
+    ]
+  },
+  "opportunities": {
+    "records": 975,
+    "fields": [
+      "id",
+      "person",
+      "site",
+      "role",
+      "day",
+      "observed",
+      "equipment"
+    ]
+  },
+  "attempts": {
+    "records": 651,
+    "fields": [
+      "id",
+      "opportunity",
+      "person",
+      "operator",
+      "mode",
+      "received_day",
+      "minutes",
+      "passed",
+      "requirement"
+    ]
+  },
+  "license_ledger": {
+    "records": 46,
+    "fields": [
+      "license",
+      "person",
+      "role",
+      "site",
+      "from_day",
+      "until_day",
+      "requirements",
+      "evidence"
+    ]
+  },
+  "review_events": {
+    "records": 2,
+    "fields": [
+      "id",
+      "attempt",
+      "at_day",
+      "action",
+      "actual_operator"
+    ]
+  },
+  "recognition": {
+    "records": 2,
+    "fields": [
+      "from_site",
+      "to_site",
+      "role",
+      "requirements",
+      "active_from_day",
+      "active_until_day",
+      "oversight"
+    ]
+  },
+  "staffing_needs": {
+    "records": 4,
+    "fields": [
+      "post",
+      "site",
+      "role",
+      "requirements",
+      "day",
+      "start_hour",
+      "end_hour",
+      "local",
+      "min_staff"
+    ]
+  },
+  "staffing_events": {
+    "records": 3,
+    "fields": [
+      "id",
+      "post",
+      "person",
+      "at_day",
+      "action"
+    ]
+  },
+  "availability": {
+    "records": 54,
+    "fields": [
+      "person",
+      "day",
+      "from_hour",
+      "until_hour",
+      "onsite"
+    ]
+  },
+  "requirements": {
+    "records": 3,
+    "fields": [
+      "code",
+      "scope",
+      "max_minutes",
+      "refresh_days"
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "person": "E00",
+    "role": "操作",
+    "invited_day": 49,
+    "completed_day": null,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E01",
+    "role": "操作",
+    "invited_day": 50,
+    "completed_day": 55,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E02",
+    "role": "操作",
+    "invited_day": 51,
+    "completed_day": 56,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E03",
+    "role": "换型",
+    "invited_day": 52,
+    "completed_day": 57,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E04",
+    "role": "换型",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E05",
+    "role": "换型",
+    "invited_day": 54,
+    "completed_day": 59,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E06",
+    "role": "异常处置",
+    "invited_day": 55,
+    "completed_day": 60,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E07",
+    "role": "异常处置",
+    "invited_day": 56,
+    "completed_day": 61,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E08",
+    "role": "异常处置",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E09",
+    "role": "操作",
+    "invited_day": 50,
+    "completed_day": null,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E10",
+    "role": "操作",
+    "invited_day": 51,
+    "completed_day": 56,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E11",
+    "role": "操作",
+    "invited_day": 52,
+    "completed_day": 57,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E12",
+    "role": "换型",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E13",
+    "role": "换型",
+    "invited_day": 54,
+    "completed_day": 59,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E14",
+    "role": "换型",
+    "invited_day": 55,
+    "completed_day": 60,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E15",
+    "role": "异常处置",
+    "invited_day": 56,
+    "completed_day": 61,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E16",
+    "role": "异常处置",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E17",
+    "role": "异常处置",
+    "invited_day": 50,
+    "completed_day": 55,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E18",
+    "role": "操作",
+    "invited_day": 51,
+    "completed_day": null,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E19",
+    "role": "操作",
+    "invited_day": 52,
+    "completed_day": 57,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E20",
+    "role": "操作",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E21",
+    "role": "换型",
+    "invited_day": 54,
+    "completed_day": 59,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E22",
+    "role": "换型",
+    "invited_day": 55,
+    "completed_day": 60,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E23",
+    "role": "换型",
+    "invited_day": 56,
+    "completed_day": 61,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E24",
+    "role": "异常处置",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E25",
+    "role": "异常处置",
+    "invited_day": 50,
+    "completed_day": 55,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E26",
+    "role": "异常处置",
+    "invited_day": 51,
+    "completed_day": 56,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E27",
+    "role": "操作",
+    "invited_day": 52,
+    "completed_day": null,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E28",
+    "role": "操作",
+    "invited_day": 53,
+    "completed_day": 58,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E29",
+    "role": "操作",
+    "invited_day": 54,
+    "completed_day": 59,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E30",
+    "role": "换型",
+    "invited_day": 55,
+    "completed_day": 60,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E31",
+    "role": "换型",
+    "invited_day": 56,
+    "completed_day": 61,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E32",
+    "role": "换型",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E33",
+    "role": "异常处置",
+    "invited_day": 50,
+    "completed_day": 55,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E34",
+    "role": "异常处置",
+    "invited_day": 51,
+    "completed_day": 56,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E35",
+    "role": "异常处置",
+    "invited_day": 52,
+    "completed_day": 57,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E36",
+    "role": "操作",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E37",
+    "role": "操作",
+    "invited_day": 54,
+    "completed_day": 59,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E38",
+    "role": "操作",
+    "invited_day": 55,
+    "completed_day": 60,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E39",
+    "role": "换型",
+    "invited_day": 56,
+    "completed_day": 61,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E40",
+    "role": "换型",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E41",
+    "role": "换型",
+    "invited_day": 50,
+    "completed_day": 55,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E42",
+    "role": "异常处置",
+    "invited_day": 51,
+    "completed_day": 56,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E43",
+    "role": "异常处置",
+    "invited_day": 52,
+    "completed_day": 57,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E44",
+    "role": "异常处置",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E45",
+    "role": "操作",
+    "invited_day": 54,
+    "completed_day": null,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E46",
+    "role": "操作",
+    "invited_day": 55,
+    "completed_day": 60,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E47",
+    "role": "操作",
+    "invited_day": 56,
+    "completed_day": 61,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E48",
+    "role": "换型",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E49",
+    "role": "换型",
+    "invited_day": 50,
+    "completed_day": 55,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E50",
+    "role": "换型",
+    "invited_day": 51,
+    "completed_day": 56,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E51",
+    "role": "异常处置",
+    "invited_day": 52,
+    "completed_day": 57,
+    "equipment_change": "设备换新"
+  },
+  {
+    "person": "E52",
+    "role": "异常处置",
+    "invited_day": null,
+    "completed_day": null,
+    "equipment_change": "常规"
+  },
+  {
+    "person": "E53",
+    "role": "异常处置",
+    "invited_day": 54,
+    "completed_day": 59,
+    "equipment_change": "常规"
+  }
+]

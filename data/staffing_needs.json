@@ -1,0 +1,54 @@
+[
+  {
+    "post": "K1",
+    "site": "南厂",
+    "role": "异常处置",
+    "requirements": [
+      "S2"
+    ],
+    "day": 143,
+    "start_hour": 8,
+    "end_hour": 16,
+    "local": true,
+    "min_staff": 1
+  },
+  {
+    "post": "K2",
+    "site": "南厂",
+    "role": "异常处置",
+    "requirements": [
+      "S0"
+    ],
+    "day": 143,
+    "start_hour": 8,
+    "end_hour": 16,
+    "local": true,
+    "min_staff": 1
+  },
+  {
+    "post": "K3",
+    "site": "西厂",
+    "role": "换型",
+    "requirements": [
+      "S1"
+    ],
+    "day": 143,
+    "start_hour": 9,
+    "end_hour": 16,
+    "local": false,
+    "min_staff": 1
+  },
+  {
+    "post": "K4",
+    "site": "东厂",
+    "role": "换型",
+    "requirements": [
+      "S1"
+    ],
+    "day": 143,
+    "start_hour": 11,
+    "end_hour": 15,
+    "local": false,
+    "min_staff": 1
+  }
+]
